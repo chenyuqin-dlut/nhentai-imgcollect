@@ -90,6 +90,6 @@ python main.py https://xxxxtai.net/g/297941/ 5
 <img src="img/qq2.png" width="40%" />
 
 
-看到这位兄弟学编程的 :heart: 这么诚，:older_man: :sob: :hot_pepper: 
+看到这位兄弟学编程的 :heart: 这么诚，:older_man: :sob: :hot_pepper: ，当场许下诺言！10w个工作日内写完
 
 老话说得好，宁拆⑩座庙，不毁一颗学手艺的心，正好举国防疫期间在家无聊，昨天写了写爬虫，今天写了写界面，就传到GitHub上来了
