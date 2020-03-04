@@ -1,4 +1,4 @@
-# :underage: :rocket: 使用PyQt5图形界面的Python多线程nhentai爬虫
+# :rocket: 使用PyQt5图形界面的Python多线程nhentai爬虫
 
 **Python** **PyQt5** **界面与逻辑分离** **信号与槽函数** **多线程**  **Queue消息队列**  **爬虫** **pyinstaller**
 
