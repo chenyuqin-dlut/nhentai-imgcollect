@@ -79,15 +79,15 @@ python main.py https://xxxxtai.net/g/297941/ 5
 
 我有一个群友。。。。。这回是真的！
 
-:punch: :older_man: :facepunch:  以下截图均经高度无损脱敏处理
+:punch: :older_man: :facepunch:  以下截图均经高度无损**脱敏**处理，不用担心隐私问题
 
-<img src="img/qq1.png" width=45% />
+<img src="img/qq1.png" width=40% />
 
 本来 :older_man: 只是看到群里面有这样头铁的兄弟，准备来搞笑一下的，没想到这位兄弟头真的有点铁
 
 还真的给 :older_man: 发了瑟图网站
 
-<img src="img/qq2.png" width="50%" />
+<img src="img/qq2.png" width="40%" />
 
 
 看到这位兄弟学编程的 :heart: 这么诚，:older_man: :sob: :hot_pepper: 
