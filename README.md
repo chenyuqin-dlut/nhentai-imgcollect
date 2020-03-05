@@ -2,10 +2,10 @@
 
 **Python** **PyQt5** **界面与逻辑分离** **信号与槽函数** **多线程**  **Queue消息队列**  **爬虫** **pyinstaller**
 
-:warning: 本程序仅供交流学习只用，请勿用于其他用途
+:warning: 本程序仅供交流学习之用，请勿用于其他用途
 
 - [可执行文件下载页面](https://github.com/chenyuqin-dlut/nhentai-imgcollect/releases)
-  
+  i
 # 0. 基本信息
 
 > * Python 3.7.4
